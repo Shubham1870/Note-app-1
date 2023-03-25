@@ -22,7 +22,7 @@ const Signup=()=>{
     seterr("loading");
  
     try {
-       const data = await fetch("http://localhost:8080/signup", {
+       const data = await fetch("https://node-app-2-backend.onrender.com/signup", {
           method: "POST",
           headers: {
              Accept: "application/json",
