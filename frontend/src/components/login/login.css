@@ -1,0 +1,50 @@
+body{
+    background-color: lightblue;
+    font-family: 'Open Sans', sans-serif;
+}
+#main-container{
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    width: 25%;
+    height: 22rem;
+    margin-top: 9rem;
+    font-size: 1rem;
+    border-radius: .7rem;
+    padding: .5rem;
+}
+#heading{
+    font-weight: 400;
+    padding: 1rem;
+}
+.inputs{
+    margin-bottom: 1rem;
+    text-align: left;
+    margin-left: 3.5rem;
+    font-size: .9rem;
+}
+.inputs div{
+    margin-bottom: .3rem;
+    font-weight: 500;
+}
+.inputs button{
+    width: 76%;
+    background-color: blue;
+    color: white;
+    border:  solid blue;
+}
+#checkbox{
+    width:5%
+}
+.inputs input{
+    width:73%;
+}
+#error{
+    margin-top: 1rem;
+}
+#error a{
+    text-decoration: none;
+    color: blue;
+    font-size: .85rem;
+    margin-right: .7rem;
+}

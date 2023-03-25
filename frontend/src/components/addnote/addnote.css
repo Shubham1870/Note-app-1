@@ -1,0 +1,29 @@
+body{
+    background-color: grey;
+    height: 100vh;
+}
+#main-container-2
+{
+    margin-top: 15rem;
+}
+    #main-container-2 div{
+margin-left: 20rem;
+margin-bottom: 2rem;
+
+
+}
+#main-container-2 div input{
+    width: 80%;
+    font-size: medium;
+  padding: .6rem;
+}
+#last-child{
+    height: 20vh;
+}
+#button{
+    width: 82%;
+    padding: .7rem;
+    background-color: blue;
+    color: white;
+    border: .1rem solid white;
+}
