@@ -1,0 +1,36 @@
+
+#main-container1{
+    background-color: rgb(68, 67, 67);
+    width: 100%;
+    padding: .5rem;
+    
+    
+}
+#bar{
+    color:white;
+}
+#bar span{
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+#search input{
+width: 80%;
+margin-left: 4rem;
+border-radius: 2rem;
+padding: .2rem;
+margin-top: .5rem;
+}
+#search button{
+    border-radius: 1rem;
+    
+}
+#bar a{
+    text-decoration: none;
+    color: white;
+}
+#bar a:hover{
+    color: green;
+}
+#bar span:last-child{
+    margin-left: 37rem;
+}
