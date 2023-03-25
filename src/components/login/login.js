@@ -18,7 +18,7 @@ const navigate=useNavigate()
 
     seterr("loading")
 try{
-    await fetch("http://localhost:8080/login", {
+    await fetch("https://node-app-2-backend.onrender.com/login", {
           method: "POST",
           headers: {
              Accept: "application/json",
